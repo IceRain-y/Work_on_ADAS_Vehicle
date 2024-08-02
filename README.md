@@ -1,1 +1,1 @@
-Horizontal Active Collision Avoidance Simulation Development with Carsim+Matlab, Incorporating Horizontal Acceleration Constraints, Using Matlab 2016b and Carsim 2019.0
+Horizontal Active Collision Avoidance Simulation Development with Carsim+Matlab, Incorporating Horizontal Acceleration Constraints, Using Matlab 2016b and Carsim 2019.0.A small project to practice the active safety functions of mass-produced vehicles, based on which to quickly grasp the core idea of rule-based algorithms for intelligent assisted driving functions through this simulation project.
